@@ -1,0 +1,7 @@
+Project Name	Neighborhood	Type 1	Number of units for Type 1	Selling price for Type 1	Type 2	Number of units for Type 2	Selling price for Type 2	Application opening date	Application closing date	Manager	Officer Slot	Officer
+Acacia Breeze	Yishun	2-Room	3	360000	3-Room	4	460000	3/11/2025	4/10/2025	Michael	5	"Daniel"
+Boon Lay Gardens	Boon Lay	2-Room	2	340000	3-Room	3	440000	4/11/2025	5/10/2025	Michael	4	"Emily"
+Clementi Heights	Clementi	2-Room	4	370000	3-Room	5	470000	3/16/2025	4/15/2025	Jessica	6	"David"
+Tampines Green	Tampines	2-Room	5	380000	3-Room	6	480000	5/15/2025	6/14/2025	Michael	7	""
+Punggol Point	Punggol	2-Room	3	365000	3-Room	4	465000	4/20/2025	5/19/2025	Jessica	5	"Kevin"
+Jurong West Park	Jurong West	2-Room	4	355000	3-Room	5	455000	6/1/2025	6/30/2025	David	6	"Linda"

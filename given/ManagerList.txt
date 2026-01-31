@@ -1,0 +1,7 @@
+Name	NRIC	Age	Marital Status	Password
+Michael	T8765432F	36	Single	password
+Jessica	S5678901G	26	Married	password
+David	S1122334H	45	Married	password
+Sophia	T9988776I	39	Single	password
+Ethan	S2244668J	41	Married	password
+manager1	mm	41	Married	mm

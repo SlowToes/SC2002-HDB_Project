@@ -1,0 +1,16 @@
+Name	NRIC	Age	Marital Status	Password
+John	S1234567A	35	Single	password
+Sarah	T7654321B	40	Married	password
+Grace	S9876543C	37	Married	password
+James	T2345678D	30	Married	password
+Rachel	S3456789E	25	Single	password
+aa	aa	33	Single	aa
+Peter	T1122334P	38	Single	password
+Mary	S4455667Q	22	Married	password
+Steven	T7788990R	45	Married	password
+Fiona	S0011223S	36	Single	password
+George	T3344556T	29	Single	password
+Hannah	S6677889U	50	Married	password
+Ivan	T9900112V	34	Single	password
+bb	bb	28	Married	bb
+cc	cc	42	Single	cc

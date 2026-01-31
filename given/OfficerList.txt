@@ -1,0 +1,9 @@
+Name	NRIC	Age	Marital Status	Password
+Daniel	T2109876H	36	Single	password
+Emily	S6543210I	28	Single	password
+David	T1234567J	29	Married	password
+oo	oo	20	Married	oo
+Kevin	S7890123K	31	Single	password
+Linda	T6789012L	33	Married	password
+Ben	S5678901M	27	Single	password
+Chloe	T4567890N	40	Married	password
